@@ -1,0 +1,914 @@
+1584610898113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.2kjSCrrrrxaX"
+1584610903319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.yLT7UNiLizSw"
+1584610904532	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584610905146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584610905146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584610905146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584610905146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x510003,name=PGPU::Msg_Init) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000A,name=PGPU::Msg_InitProfiler) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x510005,name=PGPU::Msg_InitVsyncBridge) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x510003,name=PGPU::Msg_Init) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51000A,name=PGPU::Msg_InitProfiler) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x510005,name=PGPU::Msg_InitVsyncBridge) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel::SendAndWait] Error: (msgtype=0x510015,name=PGPU::Msg_GetDeviceStatus) Channel error: cannot send/recv
+
+[14[GFX1-1]: Failed to initialize GPU process
+52, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x51001B,name=PGPU::Msg_ShutdownVR) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/CrashService.jsm, line 193: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsICrashReporter.getMinidumpForID]
+JavaScript error: resource://gre/modules/CrashService.jsm, line 193: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsICrashReporter.getMinidumpForID]
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/SanityTest.jsm, line 300: TypeError: this.mm is null
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2358 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2358:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2358 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2358:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2358 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2358:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2358 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2358:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+1584610906174	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2358:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2358:39
+build@ext-backgroundPage.js:73:20
+1584610906175	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2358:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2358:39
+build@ext-backgroundPage.js:73:20
+1584610906175	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2358:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2358:39
+build@ext-backgroundPage.js:73:20
+1584610906175	addons.xpi	WARN	Exception running bootstrap method startup on doh-rollout@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2358:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2358:39
+build@ext-backgroundPage.js:73:20
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 435: TypeError: browser.webProgress is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1641: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1641: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1641: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1641: TypeError: messageManager is null
+1584610906736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584610906736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584610906737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584610906737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 34: TypeError: this._browser.frameLoader.remoteTab is null
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 371: TypeError: browser.messageManager is null
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+[Parent 14152, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file z:/task_1581954009/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 690
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1236: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/browser.js, line 8123: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 97: TypeError: mm is null
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5055: TypeError: browser.webProgress is null
+console.warn: services.settings: main/fxmonitor-breaches sync already running
+1584672980587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.p6hCJx8ub5ZO"
+1584672980850	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584672981120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584672981120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584672981120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584672981120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584672982597	Marionette	INFO	Listening on port 50719
+1584672982701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584672985959	Marionette	INFO	Stopped listening on port 50719
+[Child 9336, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Child 9336, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584674973050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.QlKsKmi3d31n"
+1584674973978	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584674974307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584674974307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584674974307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584674974307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584674975791	Marionette	INFO	Listening on port 51146
+1584674976165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584674979389	Marionette	INFO	Stopped listening on port 51146
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584675391788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.nxrjqlQUfCtd"
+1584675392047	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584675392321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584675392321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584675392321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584675392321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584675393840	Marionette	INFO	Listening on port 51403
+1584675393901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584675397317	Marionette	INFO	Stopped listening on port 51403
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584675773327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.Rj4Z8qnr0veh"
+1584675773600	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584675773881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584675773881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584675773881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584675773881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584675775472	Marionette	INFO	Listening on port 51666
+1584675775943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584675779607	Marionette	INFO	Stopped listening on port 51666
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584676257001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.ejjeozLL51dM"
+1584676257939	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584676258227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584676258228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584676258228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584676258228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584676259998	Marionette	INFO	Listening on port 52008
+1584676260111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584676263712	Marionette	INFO	Stopped listening on port 52008
+[Parent 14408, Gecko_IOThread] WARNING: file z:/task_1583751780/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584676410155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.3psdKTSmKKxB"
+1584676410438	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584676410720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584676410720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584676410720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584676410720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584676412176	Marionette	INFO	Listening on port 52268
+1584676412270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584676415589	Marionette	INFO	Stopped listening on port 52268
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584676522974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.Beq3AyeTDxXt"
+1584676523237	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584676523512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584676523512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584676523513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584676523513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584676525045	Marionette	INFO	Listening on port 52472
+1584676525089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1584676528459	Marionette	INFO	Stopped listening on port 52472
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584676594277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.m4odyUheD4It"
+1584676594554	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584676594825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584676594825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584676594825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584676594825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584676596229	Marionette	INFO	Listening on port 52660
+1584676596287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584676599535	Marionette	INFO	Stopped listening on port 52660
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584677125694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.7uZ0oFKv5sMt"
+1584677125968	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584677126240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584677126240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584677126240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584677126240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584677127772	Marionette	INFO	Listening on port 52968
+1584677127808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584677131182	Marionette	INFO	Stopped listening on port 52968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584677251842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.HzPE8jMM2Wp3"
+1584677252105	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584677252380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584677252381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584677252381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584677252381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584677253843	Marionette	INFO	Listening on port 53218
+1584677253862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584677258395	Marionette	INFO	Stopped listening on port 53218
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584677321173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.MsPR1nQVJi8o"
+1584677321436	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584677321710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584677321710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584677321710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584677321710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584677323146	Marionette	INFO	Listening on port 53471
+1584677323194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584677326442	Marionette	INFO	Stopped listening on port 53471
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584678195972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.9Hg3mnV087DL"
+1584678197166	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584678197453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584678197453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584678197453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584678197453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584678199074	Marionette	INFO	Listening on port 54312
+1584678199100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584678202362	Marionette	INFO	Stopped listening on port 54312
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584678331530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.TEUoQcsJMlAi"
+1584678331831	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584678332131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584678332131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584678332131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584678332131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584678333762	Marionette	INFO	Listening on port 54690
+1584678334145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584678337471	Marionette	INFO	Stopped listening on port 54690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584680781525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.OXrUzfYSaf2b"
+1584680782415	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584680782782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584680782782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584680782782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584680782783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584680784573	Marionette	INFO	Listening on port 55529
+1584680784662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584680789517	Marionette	INFO	Stopped listening on port 55529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584681382603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.pn2C2GfN7uYM"
+1584681383715	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584681384147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584681384147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584681384147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584681384147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584681386156	Marionette	INFO	Listening on port 55958
+1584681386283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584681390678	Marionette	INFO	Stopped listening on port 55958
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584681479712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.1pJLdQFxb7oi"
+1584681480644	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584681480930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584681480930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584681480930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584681480930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584681482489	Marionette	INFO	Listening on port 56261
+1584681482830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584681486059	Marionette	INFO	Stopped listening on port 56261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584681664684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.fRtcksSlsOqD"
+1584681664950	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584681665228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584681665228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584681665228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584681665228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584681666709	Marionette	INFO	Listening on port 56579
+1584681666799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584681669905	Marionette	INFO	Stopped listening on port 56579
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584681839394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.sNyXbfHBPz92"
+1584681839659	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584681839927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584681839927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584681839927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584681839927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584681841397	Marionette	INFO	Listening on port 56804
+1584681841413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584681844621	Marionette	INFO	Stopped listening on port 56804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584683245746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.fdqVlL3c7Lgb"
+1584683246681	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584683246959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584683246959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584683246959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584683246959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584683248431	Marionette	INFO	Listening on port 50742
+1584683248858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584683252075	Marionette	INFO	Stopped listening on port 50742
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584683574738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.ERSwnH2sQIaD"
+1584683575001	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584683575276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584683575276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584683575276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584683575276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584683576759	Marionette	INFO	Listening on port 50953
+1584683576848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584683580316	Marionette	INFO	Stopped listening on port 50953
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 413: TypeError: this._captureQueue is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584683676436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.g7fkMX3iNz6b"
+1584683676701	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584683676970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584683676970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584683676970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584683676970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584683678419	Marionette	INFO	Listening on port 51147
+1584683678453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584683681678	Marionette	INFO	Stopped listening on port 51147
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584684255065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.mCXuz5TO3mkC"
+1584684255329	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584684255600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584684255600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584684255600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584684255600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584684257051	Marionette	INFO	Listening on port 51405
+1584684257093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584684260369	Marionette	INFO	Stopped listening on port 51405
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584685685882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.aA0fGCJkBKH3"
+1584685686604	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584685686902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584685686902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584685686902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584685686902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584685688447	Marionette	INFO	Listening on port 52103
+1584685688496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584685691769	Marionette	INFO	Stopped listening on port 52103
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584688680656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.XnG1E0lTOVm3"
+1584688681426	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584688681714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584688681714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584688681714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584688681714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584688683380	Marionette	INFO	Listening on port 53032
+1584688683773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584688687804	Marionette	INFO	Stopped listening on port 53032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595986141284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.6uCrUNi6Kxfp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595986144505	Marionette	INFO	Listening on port 61606
+1595986144894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595986148815	Marionette	INFO	Stopped listening on port 61606
+[Child 14276, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 14276, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 14276, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595986270324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.d9zQsxmloBEb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595986272768	Marionette	INFO	Listening on port 61789
+1595986272937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595986276576	Marionette	INFO	Stopped listening on port 61789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595986367294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.HWQ9Oypg4iVv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595986369665	Marionette	INFO	Listening on port 61943
+1595986369909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595986373910	Marionette	INFO	Stopped listening on port 61943
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595986928822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.T9C8VzhfKNLG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595986931297	Marionette	INFO	Listening on port 62303
+1595986931434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595986934896	Marionette	INFO	Stopped listening on port 62303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595987132328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.flwInOnMR9cV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595987134757	Marionette	INFO	Listening on port 62516
+1595987134938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595987138464	Marionette	INFO	Stopped listening on port 62516
+[Parent 12948, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595987391417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.fJ5LTWN23imS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595987393784	Marionette	INFO	Listening on port 62730
+1595987394030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595987397813	Marionette	INFO	Stopped listening on port 62730
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595987535464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.XTrNtEQfegiS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595987537751	Marionette	INFO	Listening on port 62901
+1595987538076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595987544612	Marionette	INFO	Stopped listening on port 62901
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595998976182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.qyBTalHhLABT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595998979576	Marionette	INFO	Listening on port 51133
+1595998979796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595998983466	Marionette	INFO	Stopped listening on port 51133
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595999060155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.iJeHrXPZbKgt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595999062719	Marionette	INFO	Listening on port 51282
+1595999062769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595999069130	Marionette	INFO	Stopped listening on port 51282
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595999072988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.uJr66TrxBRDf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595999075593	Marionette	INFO	Listening on port 51401
+1595999075603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595999079676	Marionette	INFO	Stopped listening on port 51401
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599184088260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.6dFKXYcVUQsb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599184092803	Marionette	INFO	Listening on port 59027
+1599184092983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599184099581	Marionette	INFO	Stopped listening on port 59027
+[Parent 13468, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599184103804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.TVJ00bUK44nz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599184106527	Marionette	INFO	Listening on port 59132
+1599184106927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599184110545	Marionette	INFO	Stopped listening on port 59132
+[Parent 7676, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599184188792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.CsIeConuXDnl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599184191540	Marionette	INFO	Listening on port 59253
+1599184191932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599184198588	Marionette	INFO	Stopped listening on port 59253
+[Parent 6276, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599184202619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.XiuQg4lV9FCx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599184205298	Marionette	INFO	Listening on port 59371
+1599184205729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599184209527	Marionette	INFO	Stopped listening on port 59371
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+[Parent 14444, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599197228380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.P4C4cGg0Gtdn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599197232870	Marionette	INFO	Listening on port 55504
+1599197233129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599197240227	Marionette	INFO	Stopped listening on port 55504
+[Parent 5604, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599197244258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\78513\\AppData\\Local\\Temp\\rust_mozprofile.DNEsEtV9onoV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599197246922	Marionette	INFO	Listening on port 55631
+1599197247380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599197251528	Marionette	INFO	Stopped listening on port 55631
+[Parent 25412, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
